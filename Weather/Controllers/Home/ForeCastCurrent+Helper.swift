@@ -136,12 +136,6 @@ extension HomeViewController : UICollectionViewDelegate , UICollectionViewDataSo
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize
     {
-//        let width = (screenSize.width-leftAndRightPaddings)/numberOfItemsPerRow
         return CGSize(width: 100, height: 100)
     }
-    
-//    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, insetForSectionAt section: Int) -> UIEdgeInsets
-//    {
-//        return UIEdgeInsets(top: 20, left: 8, bottom: 5, right: 8)
-//    }
 }

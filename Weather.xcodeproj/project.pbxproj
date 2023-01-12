@@ -15,7 +15,6 @@
 		8020A5E5296C7E600026D337 /* WeatherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8020A5E4296C7E600026D337 /* WeatherUITestsLaunchTests.swift */; };
 		8020A5F6296C7F5A0026D337 /* APIConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8020A5F5296C7F5A0026D337 /* APIConstant.swift */; };
 		8020A5F8296C80270026D337 /* APIRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8020A5F7296C80270026D337 /* APIRouter.swift */; };
-		8020A5FC296C8B6A0026D337 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8020A5FB296C8B6A0026D337 /* Main.storyboard */; };
 		8020A5FE296C8BAA0026D337 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8020A5FD296C8BAA0026D337 /* LaunchScreen.storyboard */; };
 		8020A601296C8C770026D337 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8020A600296C8C770026D337 /* Constant.swift */; };
 		8020A607296C9F010026D337 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8020A606296C9F010026D337 /* HomeViewController.swift */; };
@@ -54,7 +53,6 @@
 		8020A5E4296C7E600026D337 /* WeatherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8020A5F5296C7F5A0026D337 /* APIConstant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConstant.swift; sourceTree = "<group>"; };
 		8020A5F7296C80270026D337 /* APIRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIRouter.swift; sourceTree = "<group>"; };
-		8020A5FB296C8B6A0026D337 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8020A5FD296C8BAA0026D337 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8020A600296C8C770026D337 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		8020A606296C9F010026D337 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -117,7 +115,6 @@
 				8020A5F1296C7EC30026D337 /* Controllers */,
 				8020A5CA296C7E5F0026D337 /* Assets.xcassets */,
 				8020A5CF296C7E5F0026D337 /* Info.plist */,
-				8020A5FB296C8B6A0026D337 /* Main.storyboard */,
 				8020A5FD296C8BAA0026D337 /* LaunchScreen.storyboard */,
 			);
 			path = Weather;
@@ -281,7 +278,6 @@
 			files = (
 				8020A5FE296C8BAA0026D337 /* LaunchScreen.storyboard in Resources */,
 				8020A5CB296C7E5F0026D337 /* Assets.xcassets in Resources */,
-				8020A5FC296C8B6A0026D337 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
